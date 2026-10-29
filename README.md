@@ -59,7 +59,6 @@ The report covers:
 ### Report Files
 
 - **Research Report (PDF):** `docs/Financial_Feasibility_Research_Summary.pdf`
-- **LaTeX Source:** `docs/Financial_Feasibility_Research_Summary.tex`
 - **Complete Source Package:** Available in the project’s source archive.
 
 **Important note:** The report identifies inconsistencies between some sensitivity-analysis results in the original Excel
