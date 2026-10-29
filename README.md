@@ -43,6 +43,27 @@ These findings depend on the assumptions and projections used in the model and s
 - Investment appraisal metrics
 - Financial feasibility assessment
 
+## Research Report
+
+A comprehensive **20-page research report** accompanies this project, documenting the financial feasibility model, key assumptions, cash-flow projections, investment evaluation metrics, and sensitivity analysis.
+
+The report covers:
+
+- **Initial Investment and Operating Costs:** Breakdown of setup expenses and annual operating costs.
+- **Revenue Modeling:** Revenue projections from sports classes and beverage sales.
+- **Loan Analysis:** Amortization schedule and debt-service assessment.
+- **Investment Evaluation:** Net Present Value (NPV), Internal Rate of Return (IRR), and payback period.
+- **Sensitivity Analysis:** Evaluation of how changes in revenue and operating costs affect project viability.
+- **Risk Assessment and Limitations:** Discussion of key assumptions and areas requiring further validation.
+
+### Report Files
+
+- **Research Report (PDF):** `docs/Financial_Feasibility_Research_Summary.pdf`
+- **LaTeX Source:** `docs/Financial_Feasibility_Research_Summary.tex`
+- **Complete Source Package:** Available in the project’s source archive.
+
+**Important note:** The report identifies inconsistencies between some sensitivity-analysis results in the original Excel
+
 ## Academic Context
 
 This project was completed as part of the Engineering Economics coursework in the Industrial Engineering program at Sharif University of Technology.
